@@ -1,0 +1,2 @@
+# Spam ham classification of messages
+These days, a great deal of cases have been accounted for regarding stealing personal information or phishing activities via email from the user. The upsurge in the volume of unwanted messages called spam has created an intense need for the development of more dependable and robust antispam filters. This project tackles how machine learning helps in spam detection.
